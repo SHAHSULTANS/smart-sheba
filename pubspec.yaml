@@ -41,6 +41,7 @@ dependencies:
   connectivity_plus: ^5.0.2
   device_info_plus: ^9.1.1
   package_info_plus: ^4.2.0
+  get_it: ^7.6.7   # এখানে পরিবর্তন করুন: 8.3.0 থেকে 7.6.7-এ পরিবর্তন করুন
 
 dev_dependencies:
   flutter_test:

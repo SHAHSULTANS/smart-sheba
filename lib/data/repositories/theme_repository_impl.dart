@@ -16,4 +16,4 @@ class ThemeRepositoryImpl implements ThemeRepository {
   Future<void> setThemeMode(ThemeMode themeMode) async {
     return await localDataSource.setThemeMode(themeMode);
   }
-}
+} 
